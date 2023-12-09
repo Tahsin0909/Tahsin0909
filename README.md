@@ -1,7 +1,7 @@
 <img src="https://developerguru.in/data1/images/mern-stack.png" />
 
 
-### **Hi, My name is Md Shariar Hossain** :wave:
+### **Hi, My name is Tahsin Zaman** :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;.)](https://git.io/typing-svg)
 
 <p>I'm Tahsin Zaman, a dedicated student at Northern University of Bangladesh, completely engrossed in the fascinating world of the MERN stack. Over the past six months, my passion for coding has led me to explore MongoDB, Express.js, React.js, and Node.js with unwavering enthusiasm.
