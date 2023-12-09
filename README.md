@@ -9,7 +9,7 @@
 ### Frontend  
 <div align="center">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=light&perline=4" />
   </a>
 </div>
 </td><td valign="top" width="">
@@ -17,7 +17,7 @@
 ### Backend  
 <div align="center">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&theme=light&perline=4" />
   </a> 
 </div>
 
@@ -26,7 +26,7 @@
 ### Tools  
 <div align="center">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,vscode&theme=light&perline=4" />
   </a>  
 </div>
 
