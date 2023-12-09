@@ -4,7 +4,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="">
 
 ### Frontend  
 <div align="center">  
@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=light&perline=3" />
   </a>
 </div>
-</td><td valign="top" width="100%">
+</td><td valign="top" width="">
 
 ### Backend  
 <div align="center">  
@@ -21,7 +21,7 @@
   </a> 
 </div>
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="">
 
 ### Tools  
 <div align="center">  
