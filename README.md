@@ -41,6 +41,13 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 ## Current States
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tahsin0909&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=497)](https://git.io/streak-stats)
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tahsin0909&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahsin0909&theme=default)
+
+
+
+
 ## Projects
 
 ### ✔ Signature Drive 
@@ -65,6 +72,8 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 
 
 
+
+
 ### ✔ Meta Motion Fitness
 [Live Link](https://metamotion.netlify.app/)
 #### Github: [https://github.com/Tahsin0909/MERN-STACK](https://github.com/Tahsin0909/MERN-STACK)
@@ -76,3 +85,4 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 5. Up Vote And Down Vote in Forums
 6. React Query For Fetching
 
+[Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
