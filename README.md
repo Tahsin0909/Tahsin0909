@@ -49,7 +49,7 @@ style="display: flex"
 >
 <div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tahsin0909&theme=default)
+
 
 </div>
 <div>
@@ -59,6 +59,17 @@ style="display: flex"
 </div>
 </div>
 
+<div align="center" style="display: flex; justify-content: center;">
+    <div style="margin-right: 10px;">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tahsin0909&theme=default)
+
+    </div>
+    
+    <div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tahsin0909&theme=default)
+    </div>
+</div>
 
 
 
