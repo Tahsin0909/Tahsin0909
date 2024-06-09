@@ -57,10 +57,15 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahsin0909&theme=default)
 
 </div>
+<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahsin0909&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahsin0909&langs_count=8)
+
+</div>
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahsin0909&show_icons=true)
 
 
 
