@@ -60,7 +60,7 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahsin0909&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahsin0909&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahsin0909&layout=compact)
 
 </div>
 </div>
