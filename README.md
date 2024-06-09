@@ -65,8 +65,7 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 </div>
 </div>
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tahsin0909&repo=Job_Lancer_Client-)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
