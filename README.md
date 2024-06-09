@@ -39,12 +39,27 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 
 
 ## Current States
+
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tahsin0909&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=497)](https://git.io/streak-stats)
 
+<div align='center'>
+<div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tahsin0909&theme=default)
 
+</div>
+<div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahsin0909&theme=default)
+
+</div>
+</div>
+
+
+
+
 
 
 
