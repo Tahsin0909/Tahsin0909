@@ -53,8 +53,8 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 </div>
 <div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahsin0909&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahsin0909&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahsin0909&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahsin0909&theme=transparent)
 
 </div>
 <div>
