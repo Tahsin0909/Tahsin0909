@@ -59,13 +59,13 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 </div>
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahsin0909&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahsin0909&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahsin0909&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahsin0909&layout=compact) -->
 
 </div>
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tahsin0909&repo=Job_Lancer_Client-)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tahsin0909&repo=Job_Lancer_Client-)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
