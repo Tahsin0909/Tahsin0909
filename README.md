@@ -44,7 +44,7 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 
 <div align="center" style="display: flex; justify-content: center;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tahsin0909&theme=prussian&hide_border=true&currStreakNum=526DFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tahsin0909&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=497)](https://git.io/streak-stats)
 
 <div>
 
