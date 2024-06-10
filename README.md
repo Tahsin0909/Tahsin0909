@@ -48,7 +48,7 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 
 <div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tahsin0909&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tahsin0909&theme=transparent)
 
 </div>
 <div>
