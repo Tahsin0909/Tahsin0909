@@ -44,7 +44,7 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 
 <div align="center" style="display: flex; justify-content: center;">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tahsin0909&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=497)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tahsin0909&theme=nightfox&fire=131BEB)](https://git.io/streak-stats)
 
 <div>
 
@@ -76,7 +76,7 @@ Every line of code I write resonates with my deep-seated curiosity and relentles
 [Live Link](https://signaturedrive.netlify.app/)
 #### Github: [https://github.com/Tahsin0909/MERN-STACK](https://github.com/Tahsin0909/MERN-STACK)
 #### Features:
-1. Authentication With Firebase
+1. Google and Email Authentication
 2. Shortcut Navbar for all brands
 3. Basic CRUD operations with MongoDB
 4. React Hot Toast for enhance user Experience
