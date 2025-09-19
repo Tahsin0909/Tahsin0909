@@ -102,14 +102,15 @@
 
 <table>
   <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahsin0909&theme=transparent" alt="Repos per language" />
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tahsin0909&theme=transparent" alt="Repos per language" width="100%"/>
     </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahsin0909&theme=transparent" alt="Most commit language" />
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tahsin0909&theme=transparent" alt="Most commit language" width="100%"/>
     </td>
   </tr>
 </table>
+
 
 
 
