@@ -1,4 +1,4 @@
-<img src="https://developerguru.in/data1/images/mern-stack.png" />
+<img src="https://i.ibb.co.com/xK2mSPxJ/Done-is-better-than-perfect.png" />
 
 
 ### **Hi, My name is Tahsin Zaman** :wave:
