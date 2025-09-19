@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/q3brCXcF/rsz-done-is-better-than-perfect.png" />
+<img src="https://i.ibb.co.com/xK2mSPxJ/Done-is-better-than-perfect.png" />
 
 
 ### **Hi, My name is Tahsin Zaman** :wave:
