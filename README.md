@@ -1,58 +1,58 @@
 <img src="https://i.ibb.co.com/93HV6rrh/Untitled-design.png" />
 
 
-## **Hi, My name is Tahsin Zaman** :wave:
+## **Hi, My name is Tahsin Zaman** 👋
 
+<p>
+I'm a passionate <b>Full Stack Developer</b> with 1 year of hands-on experience, currently pursuing my studies at <b>Northern University of Bangladesh</b>.  
+Over the past year, I’ve worked extensively with the <b>MERN stack</b>—MongoDB, Express.js, React.js, and Node.js—building real-world projects that sharpened my problem-solving and development skills.
+</p>
 
-<p>A dedicated student at Northern University of Bangladesh, completely engrossed in the fascinating world of the MERN stack. Over the past six months, my passion for coding has led me to explore MongoDB, Express.js, React.js, and Node.js with unwavering enthusiasm.</p>
-
-<p>Every line of code I write resonates with my curiosity and dedication. Crafting seamless web applications isn't just a task—it's my passion. I'm driven by an insatiable thirst for knowledge and a burning desire to excel in the realm of technology.</p>
+<p>
+Every project I take on reflects my curiosity and dedication. For me, coding isn’t just about solving problems—it’s about creating meaningful, scalable, and user-friendly experiences.  
+I thrive on learning new technologies, experimenting with modern tools, and pushing myself to deliver high-quality solutions that make an impact.
+</p>
 
 ---
 
-## Highlights & Interests
+## Highlights & Interests (Q&A Style) 💡
 
 <details>
-  <summary>🌟 Exploring full-stack development with <b>MERN stack</b></summary>
-
-  Diving into MongoDB, Express.js, React.js, and Node.js to create full-stack apps.
+  <summary><b>Q: What stack are you currently focused on?</b></summary>
+  🌟 A: I’m exploring full-stack development with the <b>MERN stack</b>—MongoDB, Express.js, React.js, and Node.js.
 </details>
 
 <details>
-  <summary>💻 Building <b>React.js & Next.js</b> projects</summary>
-  
-  Crafting modern, scalable, and responsive web applications with React and Next.js.
+  <summary><b>Q: Which frontend frameworks excite you the most?</b></summary>
+  💻 A: I love developing modern and high-performance web apps with <b>React.js</b> and <b>Next.js</b>.
 </details>
 
 <details>
-  <summary>🚀 Learning <b>WebSocket, Socket.io, and real-time apps</b></summary>
-  
-  Exploring real-time communication and interactive features for web applications.
+  <summary><b>Q: Do you work with real-time technologies?</b></summary>
+  🚀 A: Yes! I’m learning <b>WebSocket</b> and <b>Socket.io</b> to build interactive, real-time applications.
 </details>
 
 <details>
-  <summary>📚 Passionate about <b>REST APIs, Node.js, and MongoDB</b></summary>
-  
-  Designing and developing APIs with Node.js and storing data efficiently in MongoDB.
+  <summary><b>Q: How do you approach backend development?</b></summary>
+  📚 A: I enjoy designing <b>REST APIs</b> with Node.js and managing databases efficiently using <b>MongoDB</b>.
 </details>
 
 <details>
-  <summary>⚡ Experimenting with <b>Plasmo, Firebase, and Expo</b></summary>
-  
-  Building browser extensions, cloud apps, and mobile applications with new tools.
+  <summary><b>Q: Are you experimenting with new tools?</b></summary>
+  ⚡ A: Definitely! I’ve been exploring <b>Plasmo</b> (browser extensions), <b>Firebase</b>, and <b>Expo</b> for cross-platform apps.
 </details>
 
 <details>
-  <summary>🛠 Improving <b>UI/UX with Tailwind, Bootstrap, and Ant-Design</b></summary>
-  
-  Creating clean, modern, and responsive user interfaces with CSS frameworks.
+  <summary><b>Q: How do you ensure good UI/UX?</b></summary>
+  🛠 A: By enhancing interfaces with <b>Tailwind</b>, <b>Bootstrap</b>, and <b>Ant-Design</b> for clean and responsive design.
 </details>
 
 <details>
-  <summary>🔧 Version control & collaboration using <b>Git & GitHub</b></summary>
-  
-  Managing projects, collaborating with teams, and contributing to open-source.
+  <summary><b>Q: How do you manage your projects?</b></summary>
+  🔧 A: With <b>Git</b> and <b>GitHub</b>, ensuring smooth version control, collaboration, and open-source contributions.
 </details>
+
+
 
 
 ## My Skill Set  
