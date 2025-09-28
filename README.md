@@ -42,10 +42,6 @@ I thrive on learning new technologies, experimenting with modern tools, and push
   ⚡ A: Definitely! I’ve been exploring <b>Plasmo</b> (browser extensions), <b>Firebase</b>, and <b>Expo</b> for cross-platform apps.
 </details>
 
-<details>
-  <summary><b>Q: How do you ensure good UI/UX?</b></summary>
-  🛠 A: By enhancing interfaces with <b>Tailwind</b>, <b>Bootstrap</b>, and <b>Ant-Design</b> for clean and responsive design.
-</details>
 
 
 
