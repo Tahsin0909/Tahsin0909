@@ -27,10 +27,6 @@ I thrive on learning new technologies, experimenting with modern tools, and push
   💻 A: I love developing modern and high-performance web apps with <b>React.js</b> and <b>Next.js</b>.
 </details>
 
-<details>
-  <summary><b>Q: Do you work with real-time technologies?</b></summary>
-  🚀 A: Yes! I’m learning <b>WebSocket</b> and <b>Socket.io</b> to build interactive, real-time applications.
-</details>
 
 
 
