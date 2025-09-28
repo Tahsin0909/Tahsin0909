@@ -47,10 +47,7 @@ I thrive on learning new technologies, experimenting with modern tools, and push
   🛠 A: By enhancing interfaces with <b>Tailwind</b>, <b>Bootstrap</b>, and <b>Ant-Design</b> for clean and responsive design.
 </details>
 
-<details>
-  <summary><b>Q: How do you manage your projects?</b></summary>
-  🔧 A: With <b>Git</b> and <b>GitHub</b>, ensuring smooth version control, collaboration, and open-source contributions.
-</details>
+
 
 
 
