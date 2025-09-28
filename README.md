@@ -32,10 +32,7 @@ I thrive on learning new technologies, experimenting with modern tools, and push
   🚀 A: Yes! I’m learning <b>WebSocket</b> and <b>Socket.io</b> to build interactive, real-time applications.
 </details>
 
-<details>
-  <summary><b>Q: How do you approach backend development?</b></summary>
-  📚 A: I enjoy designing <b>REST APIs</b> with Node.js and managing databases efficiently using <b>MongoDB</b>.
-</details>
+
 
 
 
