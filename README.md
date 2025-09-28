@@ -37,10 +37,7 @@ I thrive on learning new technologies, experimenting with modern tools, and push
   📚 A: I enjoy designing <b>REST APIs</b> with Node.js and managing databases efficiently using <b>MongoDB</b>.
 </details>
 
-<details>
-  <summary><b>Q: Are you experimenting with new tools?</b></summary>
-  ⚡ A: Definitely! I’ve been exploring <b>Plasmo</b> (browser extensions), <b>Firebase</b>, and <b>Expo</b> for cross-platform apps.
-</details>
+
 
 
 
