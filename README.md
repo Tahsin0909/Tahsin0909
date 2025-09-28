@@ -22,10 +22,7 @@ I thrive on learning new technologies, experimenting with modern tools, and push
   🌟 A: I’m exploring full-stack development with the <b>MERN stack</b>—MongoDB, Express.js, React.js, and Node.js.
 </details>
 
-<details>
-  <summary><b>Q: Which frontend frameworks excite you the most?</b></summary>
-  💻 A: I love developing modern and high-performance web apps with <b>React.js</b> and <b>Next.js</b>.
-</details>
+
 
 
 
